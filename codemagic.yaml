@@ -1,0 +1,116 @@
+# Automatically generated on 2021-11-14 UTC from https://codemagic.io/app/6191537e4226b2d228a927e1/settings
+# Note that this configuration is not an exact match to UI settings. Review and adjust as necessary.
+
+workflows:
+  default-workflow:
+    name: Default Workflow
+    max_build_duration: 60
+    environment:
+      vars:
+        APP_STORE_CONNECT_ISSUER_ID: dded258b-e67d-4977-b7c0-1035d0747872
+        APP_STORE_CONNECT_KEY_IDENTIFIER: TJT8CZ5YR2
+        APP_STORE_CONNECT_PRIVATE_KEY: Encrypted(Z0FBQUFBQmhrV0FjeXdSTkdpRjJJXzU1Qjd5U1p1YjlUWHV1QjhGcnhUTURVeXZRUjNmcGtlVGt3SC0xQUM3QlVnV2tPUFF2SVBHOUhGc0ZiMHpOWjZxZEtYcDFkMGhPdHNRRkFFb2lxYjF1UUFCejkySVNlamVGME02ZnhKM1pmS2hna0hEMFVpRE1TME03dDNHcllrZEgzNTZYVTFZTXhGQnZPMmpEV3F2UHozYnRsRmV5NFp0c2w3Ry05VzJpd1hGLWROMDBCMUxUYURKbXdYVE1nRWNJb2xBQlM1aUNDMWFvcE5tbmRlYVhNejY3QTF1WExZRURUa1otaHN0UXNzMWYzVy13MFBRR0Z5QWhwQWgtaUgtZ3hvMm0yYnlIQ3RNRnlhakZkaWtZckdSbFVCR2lJU0JPNmkyMVVGX2lVeWp6cVlmT3FtN0JhcXVDV0MyWVlhYmxjR1BUbi0wbDE1aGk3cV9iQUVTekdVN0RZZHY5OWN2eXpmS19vd3FMWjB6UzNGN0pSVDl5YWNjRjJtMEdlVU01QVlEX3BycDQ2WmJGeG44QnJVbWxadUdNa055NkdhVT0=)
+        CERTIFICATE_PRIVATE_KEY: Encrypted(Z0FBQUFBQmhrV0FibXFXN29DTWZocEJKVlpGS2NobXROUVJwQ3h6S1FLa2lNM2pkaGVVUS1iMVk4X3lrVVIwVHZnRkQ5X1ZYcnFlWW9QeEthREFMYUhZdEREcEhCb1JhWTRpcVc2Q0NFdDhscnBtaWdYZU1tSFZ0Yl9RSlNZREtxQm9rTDJRM0d3dGN2UjMydDctel9TVW1qS3BCZ09LNE0zY2pQS3hLUVJGX25OLWFlbEp0RTNsRGh0bU5QMU12V3hNcXFKRXVKaEdCMUhVMUlXbDk2cU5fcllBckswMzBZSjVIWmxYa0VIRUlhN3hTOWkxRUZldlQ5cjlVMzdjcFNBbUlLdlJ2ZDdRZGU1aHpaaVFhTnZSWEhKWVJWcEdOMDdOWmNZM3lWTzl6RzhmS1ByVUdZUEFaTnhOc3Fsa0pUSzRIb3RvYXh2a1ptYXdZSTFjOHlST244NzJCaHJkNUpXZjlkb1hSN1VrUkpITkxuYlFwLXhVSmZZUzFQMFNCd2NFN0kzOEFWY2s2SDF4RzR6UTlMazNxd01FNXh5MGZGb2hFSm1obDZ0Q1EwTFp4MmV2Y3F4Y1p6ODN0Y3pUY3FQRGVoVEp4VE43LUo2WDFMU0Q0VXFyQVB1a0JJVGFKeFJhRTZMS1lISnRVc1BFSjZ6NTlRaEt6MjBYWVFGMG9LNUNZbElTVGlTbDRObjFlazYwMHRTNHV5QzBlb0luWTNWVG5Nbk11VENBLWVBTC1IUnh0cHY5QmRSSXVuMmlIZVNhNmNiUms3TTFHbmNhUXBqX0tOMVZ3U2JRV2V6Mi1JMTk2Q0VnU2ppdWxXYktZdUdQYmJvM1NyV1Nvbk1PYnNERFd0dkEwaVFYT0p3TzRtT2FtNmlYajFTTkdXQ3hNS2FiWFZEZnpTNVBmTGNVQjFLN09LNnpnN3FLaGVrODFyaHNldWFSSTBaRGhrdEFmcXNQMEN1UjBxb1NXYW9wLWVxZnFRRUpjSU1nQTRaUmZkd0VGRkZyMkVmX0ZPNWpzQm1lWUVSTk52MGxWNG5QdnUwMmsyYkxYT1BtaFdFZkhHNHFCYWRxYjZpOXhKZGgxVURTSkRncjU4U284OVQydVI4QnNRVlk5Y0NqbGR1VlpOS2Q1NEItdTlGSTZjZFNNS3lLY0FPTkVsOG9FWWxXOWlDX1BlWDRtTWhNUXJnLXJNU1NiTExodlpGZ1NjTk1rRHNrakFDZm9uREowM19wX09Ed2tEWlYxU3BOZmtOM2lJX090V3RhRUlpQzhzWWIxOXpaYTRDOXBjeHIxcTQ5RFpER2Fkamp2MGhDelMwYWUwRC1NVU1CYXE5VkdacG8yWEpLWkJFUFlBMWV6aFBnN0RKN3ZaREREZkVuRlViSHNqMEtTWHVjd3JlU012cHhGMWh6Y2hmSWhHcWxxRDhRLVJvakd5T0FQb3Z2MFBkTEU3VXJOc29hTlN1el91NUpZSFpuWU5LZGhrc0hpVnAyQW5tTTVudmZuQU9IRDE4enZyWUlDdGc3M1dpUkhULWZnZWxHcm4zWWxDUHVuTHlNT2VkRmpWTTNTS1FpQW4tajNfTElDWGxHcU5ZeklzN05XZnVoaG01dUlPUlk3M1pYMzFERGdCVzRJVGtFQVp1d2JzOUJvTXNEQndMYm9ZbHRscW5xeFh4dGQ0NENGYW5nUkh0WkYyX0RrZUNIb2h2TnVtRFpXVnZfRWh0a1VDLUJYQS02SVBqTVlubWpZc045c20zUGJ5NllRcjV3T1dFSWNkMkRDdDZsOVRRUjNmWDdWNzZJcXdzQ1JZdkV1dkxhMUVzdGhSSTB4WXR6RlFRdzdPUTUyYmlsSkNiTWNWR2xCSll6REUxdHdXZk1HLTl6aFdJbm5Cekt1QzZvYU9kMWxjOFhzbmxOalhITC1jQXdpbndRVEJpcG5ZbWF5UEdiZFZYWjZKNnVVcERva0lxUG5qTGNCYndESTNncDhLUGtrQWFkaDJVYU1OZ1k0VjEzMGpkbGNjQWw4Q200amp5UTNaWm15cDFGOXhTaEt0MEVodmRZYnpRWEdyU1ktS2ZXcjhRbS1rVEs3SXVoLWFQNTdPQVczblhfak5WMVEtcC1ZM09tWnYteGtKQkhVNm5pclMya2xpUGp5X0xtME5vcEdVWkc0R1V6QXNhemJudHNZUUt4Q0dDM1p0aUU0MGd1aEhIOEtiVXExTzBXRmVLWXNfbktKSGx4clpvMk1YZm1wOG9YMFowS3o3M1RGUGY1UnV1dEhMRkxOblI4RzFlXy1UX3BsRTFXd1dyZ1BmaU51eG1mUnphVlNnYkR2WDRzYVJyQmhLelk3S3dRVjgtZkJlVzl0WnFVSE0tck1LOEJOTTJMbXprWk05LXBYdFpwMzhsR0EzZ2NoR1pJakJlOXR5VDlLSWpSbzlUSGtYai1aNXFyMDJZN3hjeHIzQlExVkFlVkNCZWg5bHJXSnU0QUZrZUFkUThpMkdmUFJCZ2toOHVFWXJIMjBOY09tOFFOMENZUG95N2ltc2pJT0h0Z1pnaTc5RlZ0V25oY0dIUk54YkVHY2JDcEUyS2k2dHo1MGlXY3E3anVDaHFmU1V2QlVvUWtsN1poUDl3cmlJeWl0elJ2QXQxMHVoMWk0a3BEM0JQSEhJdGoyUllBT01TYjlHaWVzVjJZX1hCZTY1VXhYOGVWOWw5VUhPZ3FXaGNMUVY5eWFRTmdBYzZvVWZNWHR6YnJnYUp4bWprYzVhOE1UNXo2SGx4ZXh3NGUxWEtGeTJrLXhYS1ZqZjBMSGpCd29PVFJyaENOTndMVEIxdXItZG1wMnRFbzRDVW4xVFNfUGVTMDRwMG52cElCak85RkJESjJhc1ZReGJQVnRCZjhIdk8tcXhIY2dKUGFmcTBpOENHUENEYm91QTNBMG9YRk5mTU51dFQ5Wlk5SjBHM1BFalVnSEFOcDBBVU1wcmN3dlBTMkZqM1RqLUgtbU90eXVFMnNDLXFrNzVqZnAtcVN4a0ZoYUVxVGpYNE5WTldEZnFvd1VleUFDVnBFeTl5ckk2Y0FhanNhdVB5S29RTzNFUkE2OVBTMlVrVWlU)
+      flutter: stable
+      xcode: latest
+      cocoapods: default
+    scripts:
+      - flutter packages pub get
+      - find . -name "Podfile" -execdir pod install \;
+      - keychain initialize
+      - app-store-connect fetch-signing-files "com.example.testsert" --type IOS_APP_DEVELOPMENT
+        --create
+      - keychain add-certificates
+      - xcode-project use-profiles
+      - flutter build ipa --export-options-plist=/Users/builder/export_options.plist
+    artifacts:
+      - build/ios/ipa/*.ipa
+      - /tmp/xcodebuild_logs/*.log
+      - flutter_drive.log
+    publishing:
+      email:
+        recipients:
+          - neo321654@rambler.ru
+
+  ios-workflow:
+    name: iOS Workflow
+    # instance_type: mac_mini
+    max_build_duration: 120
+    environment:
+
+
+      vars:
+        APP_STORE_CONNECT_ISSUER_ID: dded258b-e67d-4977-b7c0-1035d0747872
+        APP_STORE_CONNECT_KEY_IDENTIFIER: TJT8CZ5YR2
+        APP_STORE_CONNECT_PRIVATE_KEY: Encrypted(Z0FBQUFBQmhrV0FjeXdSTkdpRjJJXzU1Qjd5U1p1YjlUWHV1QjhGcnhUTURVeXZRUjNmcGtlVGt3SC0xQUM3QlVnV2tPUFF2SVBHOUhGc0ZiMHpOWjZxZEtYcDFkMGhPdHNRRkFFb2lxYjF1UUFCejkySVNlamVGME02ZnhKM1pmS2hna0hEMFVpRE1TME03dDNHcllrZEgzNTZYVTFZTXhGQnZPMmpEV3F2UHozYnRsRmV5NFp0c2w3Ry05VzJpd1hGLWROMDBCMUxUYURKbXdYVE1nRWNJb2xBQlM1aUNDMWFvcE5tbmRlYVhNejY3QTF1WExZRURUa1otaHN0UXNzMWYzVy13MFBRR0Z5QWhwQWgtaUgtZ3hvMm0yYnlIQ3RNRnlhakZkaWtZckdSbFVCR2lJU0JPNmkyMVVGX2lVeWp6cVlmT3FtN0JhcXVDV0MyWVlhYmxjR1BUbi0wbDE1aGk3cV9iQUVTekdVN0RZZHY5OWN2eXpmS19vd3FMWjB6UzNGN0pSVDl5YWNjRjJtMEdlVU01QVlEX3BycDQ2WmJGeG44QnJVbWxadUdNa055NkdhVT0=)
+        CERTIFICATE_PRIVATE_KEY: Encrypted(Z0FBQUFBQmhrV0FibXFXN29DTWZocEJKVlpGS2NobXROUVJwQ3h6S1FLa2lNM2pkaGVVUS1iMVk4X3lrVVIwVHZnRkQ5X1ZYcnFlWW9QeEthREFMYUhZdEREcEhCb1JhWTRpcVc2Q0NFdDhscnBtaWdYZU1tSFZ0Yl9RSlNZREtxQm9rTDJRM0d3dGN2UjMydDctel9TVW1qS3BCZ09LNE0zY2pQS3hLUVJGX25OLWFlbEp0RTNsRGh0bU5QMU12V3hNcXFKRXVKaEdCMUhVMUlXbDk2cU5fcllBckswMzBZSjVIWmxYa0VIRUlhN3hTOWkxRUZldlQ5cjlVMzdjcFNBbUlLdlJ2ZDdRZGU1aHpaaVFhTnZSWEhKWVJWcEdOMDdOWmNZM3lWTzl6RzhmS1ByVUdZUEFaTnhOc3Fsa0pUSzRIb3RvYXh2a1ptYXdZSTFjOHlST244NzJCaHJkNUpXZjlkb1hSN1VrUkpITkxuYlFwLXhVSmZZUzFQMFNCd2NFN0kzOEFWY2s2SDF4RzR6UTlMazNxd01FNXh5MGZGb2hFSm1obDZ0Q1EwTFp4MmV2Y3F4Y1p6ODN0Y3pUY3FQRGVoVEp4VE43LUo2WDFMU0Q0VXFyQVB1a0JJVGFKeFJhRTZMS1lISnRVc1BFSjZ6NTlRaEt6MjBYWVFGMG9LNUNZbElTVGlTbDRObjFlazYwMHRTNHV5QzBlb0luWTNWVG5Nbk11VENBLWVBTC1IUnh0cHY5QmRSSXVuMmlIZVNhNmNiUms3TTFHbmNhUXBqX0tOMVZ3U2JRV2V6Mi1JMTk2Q0VnU2ppdWxXYktZdUdQYmJvM1NyV1Nvbk1PYnNERFd0dkEwaVFYT0p3TzRtT2FtNmlYajFTTkdXQ3hNS2FiWFZEZnpTNVBmTGNVQjFLN09LNnpnN3FLaGVrODFyaHNldWFSSTBaRGhrdEFmcXNQMEN1UjBxb1NXYW9wLWVxZnFRRUpjSU1nQTRaUmZkd0VGRkZyMkVmX0ZPNWpzQm1lWUVSTk52MGxWNG5QdnUwMmsyYkxYT1BtaFdFZkhHNHFCYWRxYjZpOXhKZGgxVURTSkRncjU4U284OVQydVI4QnNRVlk5Y0NqbGR1VlpOS2Q1NEItdTlGSTZjZFNNS3lLY0FPTkVsOG9FWWxXOWlDX1BlWDRtTWhNUXJnLXJNU1NiTExodlpGZ1NjTk1rRHNrakFDZm9uREowM19wX09Ed2tEWlYxU3BOZmtOM2lJX090V3RhRUlpQzhzWWIxOXpaYTRDOXBjeHIxcTQ5RFpER2Fkamp2MGhDelMwYWUwRC1NVU1CYXE5VkdacG8yWEpLWkJFUFlBMWV6aFBnN0RKN3ZaREREZkVuRlViSHNqMEtTWHVjd3JlU012cHhGMWh6Y2hmSWhHcWxxRDhRLVJvakd5T0FQb3Z2MFBkTEU3VXJOc29hTlN1el91NUpZSFpuWU5LZGhrc0hpVnAyQW5tTTVudmZuQU9IRDE4enZyWUlDdGc3M1dpUkhULWZnZWxHcm4zWWxDUHVuTHlNT2VkRmpWTTNTS1FpQW4tajNfTElDWGxHcU5ZeklzN05XZnVoaG01dUlPUlk3M1pYMzFERGdCVzRJVGtFQVp1d2JzOUJvTXNEQndMYm9ZbHRscW5xeFh4dGQ0NENGYW5nUkh0WkYyX0RrZUNIb2h2TnVtRFpXVnZfRWh0a1VDLUJYQS02SVBqTVlubWpZc045c20zUGJ5NllRcjV3T1dFSWNkMkRDdDZsOVRRUjNmWDdWNzZJcXdzQ1JZdkV1dkxhMUVzdGhSSTB4WXR6RlFRdzdPUTUyYmlsSkNiTWNWR2xCSll6REUxdHdXZk1HLTl6aFdJbm5Cekt1QzZvYU9kMWxjOFhzbmxOalhITC1jQXdpbndRVEJpcG5ZbWF5UEdiZFZYWjZKNnVVcERva0lxUG5qTGNCYndESTNncDhLUGtrQWFkaDJVYU1OZ1k0VjEzMGpkbGNjQWw4Q200amp5UTNaWm15cDFGOXhTaEt0MEVodmRZYnpRWEdyU1ktS2ZXcjhRbS1rVEs3SXVoLWFQNTdPQVczblhfak5WMVEtcC1ZM09tWnYteGtKQkhVNm5pclMya2xpUGp5X0xtME5vcEdVWkc0R1V6QXNhemJudHNZUUt4Q0dDM1p0aUU0MGd1aEhIOEtiVXExTzBXRmVLWXNfbktKSGx4clpvMk1YZm1wOG9YMFowS3o3M1RGUGY1UnV1dEhMRkxOblI4RzFlXy1UX3BsRTFXd1dyZ1BmaU51eG1mUnphVlNnYkR2WDRzYVJyQmhLelk3S3dRVjgtZkJlVzl0WnFVSE0tck1LOEJOTTJMbXprWk05LXBYdFpwMzhsR0EzZ2NoR1pJakJlOXR5VDlLSWpSbzlUSGtYai1aNXFyMDJZN3hjeHIzQlExVkFlVkNCZWg5bHJXSnU0QUZrZUFkUThpMkdmUFJCZ2toOHVFWXJIMjBOY09tOFFOMENZUG95N2ltc2pJT0h0Z1pnaTc5RlZ0V25oY0dIUk54YkVHY2JDcEUyS2k2dHo1MGlXY3E3anVDaHFmU1V2QlVvUWtsN1poUDl3cmlJeWl0elJ2QXQxMHVoMWk0a3BEM0JQSEhJdGoyUllBT01TYjlHaWVzVjJZX1hCZTY1VXhYOGVWOWw5VUhPZ3FXaGNMUVY5eWFRTmdBYzZvVWZNWHR6YnJnYUp4bWprYzVhOE1UNXo2SGx4ZXh3NGUxWEtGeTJrLXhYS1ZqZjBMSGpCd29PVFJyaENOTndMVEIxdXItZG1wMnRFbzRDVW4xVFNfUGVTMDRwMG52cElCak85RkJESjJhc1ZReGJQVnRCZjhIdk8tcXhIY2dKUGFmcTBpOENHUENEYm91QTNBMG9YRk5mTU51dFQ5Wlk5SjBHM1BFalVnSEFOcDBBVU1wcmN3dlBTMkZqM1RqLUgtbU90eXVFMnNDLXFrNzVqZnAtcVN4a0ZoYUVxVGpYNE5WTldEZnFvd1VleUFDVnBFeTl5ckk2Y0FhanNhdVB5S29RTzNFUkE2OVBTMlVrVWlU)
+
+        XCODE_WORKSPACE: "Runner.xcworkspace"
+        XCODE_SCHEME: "Runner"
+        BUNDLE_ID: "com.example.testsert" # <-- Put your bundle id here
+        APP_STORE_ID: TJT8CZ5YR2 # <-- Use the TestFlight Apple id number (An automatically generated ID assigned to your app) found under General > App Information > Apple ID.
+      flutter: stable
+      xcode: latest
+      cocoapods: default
+    scripts:
+      - name: Set up keychain to be used for codesigning using Codemagic CLI 'keychain' command
+        script: |
+          keychain initialize
+      - name: Fetch signing files
+        script: |
+          app-store-connect fetch-signing-files $BUNDLE_ID --type IOS_APP_STORE --create
+      - name: Use system default keychain
+        script: |
+          keychain add-certificates
+      - name: Set up code signing settings on Xcode project
+        script: |
+          xcode-project use-profiles
+      - name: Get Flutter packages
+        script: |
+          cd . && flutter packages pub get
+#      - name: Flutter analyze
+#        script: |
+#          cd . && flutter analyze
+#      - name: Flutter unit tests
+#        script: |
+#          cd . && flutter test
+#        ignore_failure: true
+      - name: Install pods
+        script: |
+          find . -name "Podfile" -execdir pod install \;
+      - name: Flutter build ipa and automatic versioning
+        script: |
+          flutter build ipa --release \
+          --build-name=1.0.0 \
+          --build-number=$(($(app-store-connect get-latest-testflight-build-number "$APP_STORE_ID") + 1)) \
+          --export-options-plist=/Users/builder/export_options.plist
+    artifacts:
+      - build/ios/ipa/*.ipa
+      - /tmp/xcodebuild_logs/*.log
+      - flutter_drive.log
+    publishing:
+      # See the following link for details about email publishing - https://docs.codemagic.io/publishing-yaml/distribution/#email
+      email:
+        recipients:
+          - user_1@example.com
+          - user_2@example.com
+        notify:
+          success: true     # To receive a notification when a build succeeds
+          failure: false    # To not receive a notification when a build fails
+      slack:
+        # See the following link about how to connect your Slack account - https://docs.codemagic.io/publishing-yaml/distribution/#slack
+        channel: "#builds"
+        notify_on_build_start: true   # To receive a notification when a build starts
+        notify:
+          success: true               # To receive a notification when a build succeeds
+          failure: false              # To not receive a notification when a build fails
+      app_store_connect:   # https://docs.codemagic.io/publishing-yaml/distribution
+        api_key: $APP_STORE_CONNECT_PRIVATE_KEY         # Contents of the API key, can also reference environment variable such as $APP_STORE_CONNECT_PRIVATE_KEY
+        key_id: $APP_STORE_CONNECT_KEY_IDENTIFIER       # Alphanumeric value that identifies the API key, can also reference environment variable such as $APP_STORE_CONNECT_KEY_IDENTIFIER
+        issuer_id: $APP_STORE_CONNECT_ISSUER_ID         # Alphanumeric value that identifies who created the API key, can also reference environment variable such as $APP_STORE_CONNECT_ISSUER_ID
+        submit_to_testflight: false                     # Optional boolean, defaults to false. Whether or not to submit the uploaded build to TestFlight beta review. Required for distributing to beta groups. Note: This action is performed during post-processing.
+        # beta_groups:                                  # Specify the names of beta tester groups that will get access to the build once it has passed beta review.
+        #      - group name 1
+        #      - group name 2
+
+

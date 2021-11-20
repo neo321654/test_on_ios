@@ -1,0 +1,6 @@
+{
+  "appTitle": "test_on_ios",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
